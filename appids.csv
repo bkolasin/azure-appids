@@ -1,4 +1,4 @@
-﻿AppDisplayName,AppId
+AppDisplayName,AppId
 Microsoft App Access Panel,0000000c-0000-0000-c000-000000000000
 Microsoft Teams Retail Service,75efb5bc-18a1-4e7b-8a66-2ad2503d79c6
 Power BI Premium,cb4dc29f-0bf4-402a-8b30-7511498ed654
@@ -63,7 +63,7 @@ Microsoft AppPlat EMA,dee7ba80-6a55-4f3b-a86c-746a9231ae49
 Common Data Service,00000007-0000-0000-c000-000000000000
 Azure AD Identity Governance,bf26f092-3426-4a99-abfb-97dad74e661a
 KaizalaActionsPlatform,9bb724a5-4639-438c-969b-e184b2b1e264
-,f569b9c7-be15-4e87-86f7-87d30d02090b
+Office 365 LinkedIn Connection,f569b9c7-be15-4e87-86f7-87d30d02090b
 M365 Admin Services,6b91db1b-f05b-405a-a0b2-e3f60b28d645
 SharePoint Notification Service,3138fe80-4087-4b04-80a6-8866c738028a
 Intune CMDeviceService,14452459-6fa6-4ec0-bc50-1528a1a06bf0
@@ -175,7 +175,7 @@ Microsoft Teams ADL,30e31aeb-977f-4f4f-a483-b61e8377b302
 Azure Smart Alerts,3af5a1e8-2459-45cb-8683-bcd6cccbcc13
 Microsoft Teams Services,cc15fd57-2c6c-4117-a88c-83b1d56b4bbe
 Power Query Online,f3b07414-6bf4-46e6-b63f-56941f3f4128
-,803ee9ca-3f7f-4824-bd6e-0b99d720c35c
+Azure Media Service,803ee9ca-3f7f-4824-bd6e-0b99d720c35c
 Microsoft Dynamics 365 Apps Integration,44a02aaa-7145-4925-9dcd-79e6e1b94eff
 Microsoft Teams AuthSvc,a164aee5-7d0a-46bb-9404-37421d58bdf7
 ReportReplica,f25a7567-8ec5-4582-8a65-bfd66b0530cc
@@ -226,7 +226,7 @@ Cortana at Work Bing Services,22d7579f-06c2-4baa-89d2-e844486adb9d
 Microsoft Whiteboard Services,95de633a-083e-42f5-b444-a4295d8e9314
 Microsoft Flow Service,7df0a125-d3be-4c96-aa54-591f83ff541c
 Azure AD Identity Governance – SPO Management,396e7f4b-41ea-4851-b04d-65de6cf1b4a3
-,c26550d6-bc82-4484-82ca-ac1c75308ca3
+Office 365 YammerOnOls,c26550d6-bc82-4484-82ca-ac1c75308ca3
 Microsoft Intune Advanced Threat Protection Integration,794ded15-70c6-4bcd-a0bb-9b7ad530a01a
 Microsoft Policy Insights Provider Data Plane,8cae6e77-e04e-42ce-b5cb-50d82bce26b1
 Microsoft.Azure.DataMarket,00000008-0000-0000-c000-000000000000
